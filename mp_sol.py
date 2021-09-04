@@ -3,8 +3,6 @@ import numpy as np
 import pickle
 import seaborn as sns
 from seaborn import load_dataset
-from sklearn.ensemble import RandomForestRegressor
-from sklearn.preprocessing import MinMaxScaler
 import streamlit as st
 import matplotlib.pyplot as plt
 
